@@ -33,25 +33,3 @@ else:
     # max(n_mun)=4이고 n_num.index(4)는 n_num[1,2]에 위치한다
     #  n_num[1,2]는 txt_list의 i와s기 때문에 2개이디 때문에 '?'를 출력한다
 
-    #1개 이면 
-# .upper())
-# for i in range(len(a)):
-
-#  search = a[i].strip(string.punctuation)
-#     if i[0] == A:
-#         a += 1
-
-
-#     else:
-
-
-
-#     print(sorted().upper())
-
-# 
-# txt.count()
-# .upper
-
-#Mississipi
-#?
-#zZa
