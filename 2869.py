@@ -6,7 +6,6 @@
 import sys
 import math
 
-
 a, b, v = map(int, sys.stdin.readline().split())
 
 m = (v-b)/(a-b)
